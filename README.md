@@ -6,7 +6,7 @@
 
 ## 🌱 About Me
 ## 👯 기술스택
-[![JavaScript Badge](https://img.shields.io/badge/Javascript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=github.com/SujinJeong)]
+[![JavaScript Badge](https://img.shields.io/badge/Javascript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/SujinJeong)](https://github.com/SujinJeong)
 ## 💬 Contact
 ## ⚡ 자격증
 ## 😄 Pronouns: ...
