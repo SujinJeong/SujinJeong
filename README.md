@@ -5,13 +5,19 @@
 </p>  
 
 ## 🌱 About Me
+
 ## 👯 기술스택
 <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&&link=https://github.com/SujinJeong">
+
+
 ## 💬 Contact
+
 ## ⚡ 자격증
-## 😄 Pronouns: ...
+
+## 😄 
+
 ## ✨
 
-<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "90%">
+<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "90%" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong">
