@@ -6,12 +6,12 @@
 
 ## 🌱 About Me
 ## 👯 기술스택
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&&link=https://github.com/SujinJeong)](https://github.com/SujinJeong)
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&&link=https://github.com/SujinJeong">
 ## 💬 Contact
 ## ⚡ 자격증
 ## 😄 Pronouns: ...
 ## ✨
 
-![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "90%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong)](https://github.com/anuraghazra/github-readme-stats)
