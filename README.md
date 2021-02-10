@@ -7,7 +7,7 @@
 ## 🌱 About Me
 
 ## 👯 기술스택
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&&link=https://github.com/SujinJeong">
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&link=https://github.com/SujinJeong">
 
 
 ## 💬 Contact
@@ -18,6 +18,8 @@
 
 ## ✨
 
-<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "90%" align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "80%">
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong">
