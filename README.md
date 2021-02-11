@@ -18,8 +18,7 @@
 
 ## 👯 기술스택
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/C++s-00599C?style=flat-square&logo=Cplusplus&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&link=https://github.com/SujinJeong">
-
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/SujinJeong">
 
 ## ⚡ 자격증
 
@@ -36,7 +35,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/a1ways8my._.se1f/)](https://www.instagram.com/a1ways8my._.se1f/)
 
 
-### 😄 토이프로젝트
+## 😄 토이프로젝트
 1. *소상공인을 위한 미니 POS 프로젝트* 'DD' https://github.com/SujinJeong/softwaresysmtemdevelop
 2. *위키백과 기반 대학생 강의 공유 플랫폼* 'WINGS WIKI' https://github.com/class-wiki-project/wiki-back
 3. *나만의 회사 만들기 웹프로젝트* https://github.com/SujinJeong/Swinburne_MyCompany
@@ -46,7 +45,7 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "40%">
+<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "60%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong" width="30%">
 
  </p>
