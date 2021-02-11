@@ -12,13 +12,13 @@
 |실무자컨택동아리 LinkUS! 5기 IT팀|2018.03~2018.06|국내 최초 실무자 컨탭 연합동아리|
 |대학생 자원봉사 서울동행프로젝트|2018.09~2021.02|대학(원)생 대상, 함께 성장하는 대학생 자원봉사 플랫폼|
 |연희중학교 방과후 수학 교육봉사|2018.09~2018.12|방화후 그룹수학 교육봉사|
-|호주 Swinburne Univ Bachelor of Computer Science 교환학생|2019.02~2019.11|멜버른 스윈번 공과대학에서 전문과정 학습|
-|미림정보마이스터고등학교 교생|2020.05|뉴미디어디자인반 담당, Python반 교육|
+|호주 Swinburne Univ. Bachelor of Computer Science 교환학생|2019.02~2019.11|멜버른 스윈번 공과대학에서 전문과정 학습|
+|미림정보마이스터고등학교 교생|2020.05|뉴미디어디자인반 담당, 2학년 Python반 교육|
 |삼성SW청년아카데미 SSAFY 5기|2021.01~|SSAFY 5기 Java반, SSAFY 5기 자치회|
 
 ## 👯 기술스택
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/SujinJeong">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/SujinJeong">
 
 ## ⚡ 자격증
 
