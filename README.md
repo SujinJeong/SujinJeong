@@ -46,6 +46,6 @@
 <p align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "65%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong" width="28%">
 
  </p>
