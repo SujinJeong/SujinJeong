@@ -35,23 +35,17 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/a1ways8my._.se1f/)](https://www.instagram.com/a1ways8my._.se1f/)
 
 
+### 😄 토이프로젝트
+1. *소상공인을 위한 미니 POS 프로젝트* 'DD' https://github.com/SujinJeong/softwaresysmtemdevelop
+2. *위키백과 기반 대학생 강의 공유 플랫폼* 'WINGS WIKI' https://github.com/class-wiki-project/wiki-back
+3. *나만의 회사 만들기 웹프로젝트* https://github.com/SujinJeong/Swinburne_MyCompany
+4. *영화 예매에 관한 여러 기능들을 도와주는 간단한 안드로이드 앱 '영화친구'* https://github.com/SujinJeong/Android_MovieFriend
+
 ## ✨ 저의 깃허브는요
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "80%">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong" width="30%">
-
-<div width="50%">
   
-### 😄 토이프로젝트
-1. 소상공인을 위한 미니 POS 프로젝트 'DD' https://github.com/SujinJeong/softwaresysmtemdevelop
-2. 위키백과 기반 대학생 강의 공유 플랫폼 'WINGS WIKI' https://github.com/class-wiki-project/wiki-back
-3. 나만의 회사 만들기 웹프로젝트 https://github.com/SujinJeong/Swinburne_MyCompany
-4. 영화 예매에 관한 여러 기능들을 도와주는 간단한 안드로이드 앱 '영화친구' https://github.com/SujinJeong/Android_MovieFriend
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong" width="30%">
 
  </p>
