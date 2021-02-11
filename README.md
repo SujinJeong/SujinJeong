@@ -6,7 +6,7 @@
 
 ## 🌱 About Me
 
-|활동|기간|활동내용|
+|**활동**|**기간**|**활동내용**|
 |:---:|:---:|:---:|
 |동덕여대 컴퓨터동아리 DUCOM|2016.03~2016.06|서울 대학 연합 컴퓨터 연합동아리 단원|
 |실무자컨택동아리 LinkUS! 5기 IT팀|2018.03~2018.06|국내 최초 실무자 컨탭 연합동아리|
@@ -18,14 +18,7 @@
 
 ## 👯 기술스택
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&link=https://github.com/SujinJeong">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&link=https://github.com/SujinJeong">
 
 ## ⚡ 자격증
 
@@ -48,15 +41,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "80%">
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong" width="30%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong" width="40%">
-
-<p align="right" width="50%">
+<div width="50%">
   
 ### 😄 토이프로젝트
 1. 소상공인을 위한 미니 POS 프로젝트 'DD' https://github.com/SujinJeong/softwaresysmtemdevelop
 2. 위키백과 기반 대학생 강의 공유 플랫폼 'WINGS WIKI' https://github.com/class-wiki-project/wiki-back
 3. 나만의 회사 만들기 웹프로젝트 https://github.com/SujinJeong/Swinburne_MyCompany
 4. 영화 예매에 관한 여러 기능들을 도와주는 간단한 안드로이드 앱 '영화친구' https://github.com/SujinJeong/Android_MovieFriend
+
+</div>
 
  </p>
