@@ -7,7 +7,7 @@
 ## 🌱 About Me
 
 ## 👯 기술스택
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&link=https://github.com/SujinJeong">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://github.com/SujinJeong">
 
 
 ## 💬 Contact
