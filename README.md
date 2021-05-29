@@ -44,7 +44,7 @@ https://www.notion.so/77a77b63b78748559ea6b6dbd4adb163?v=1597c5c31efd4ba5bb10271
 2. *위키백과 기반 대학생 강의 공유 플랫폼* 'WINGS WIKI' https://github.com/class-wiki-project/wiki-back
 3. *나만의 회사 만들기 웹프로젝트* https://github.com/SujinJeong/Swinburne_MyCompany
 4. *영화 예매에 관한 여러 기능들을 도와주는 간단한 안드로이드 앱 '영화친구'* https://github.com/SujinJeong/Android_MovieFriend
-5. *아파트 매매/전세 부동산 도우미 서비스 'HappyHouse'* https://github.com/SujinJeong/HappyHouse_Web_Project
+5. *아파트 매매/전세 부동산 도우미 서비스 'HappyHouse'* https://github.com/SujinJeong/happyhouse-back
 
 ## ✨ 저의 깃허브는요
 
