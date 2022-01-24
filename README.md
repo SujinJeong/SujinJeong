@@ -41,10 +41,10 @@ https://www.notion.so/77a77b63b78748559ea6b6dbd4adb163?v=1597c5c31efd4ba5bb10271
 
 ## 😄 토이프로젝트
 1. *소상공인을 위한 미니 POS 프로젝트* 'DD' https://github.com/SujinJeong/softwaresysmtemdevelop
-2. *위키백과 기반 대학생 강의 공유 플랫폼* 'WINGS WIKI' https://github.com/class-wiki-project
-3. *나만의 회사 만들기 웹프로젝트* https://github.com/SujinJeong/Swinburne_MyCompany
-4. *영화 예매에 관한 여러 기능들을 도와주는 간단한 안드로이드 앱 '영화친구'* https://github.com/SujinJeong/Android_MovieFriend
-5. *아파트 매매/전세 부동산 도우미 서비스 'HappyHouse'* https://github.com/SSAFY-Project
+2. *코로나19 시대 대학생들을 위한 위키백과 기반 온라인 대학생 강의 공유 플랫폼* 'WINGS WIKI' https://github.com/class-wiki-project
+3. *현지인 선호를 타겟팅한 나만의 회사 만들기 웹프로젝트* https://github.com/SujinJeong/Swinburne_MyCompany
+4. *영화 예매에 관한 여러 기능들을 도와주는 안드로이드 앱 '영화친구'* https://github.com/SujinJeong/Android_MovieFriend
+5. *MZ세대를 위한 아파트 매매/전세 부동산 도우미 서비스 'HappyHouse'* https://github.com/SSAFY-Project
 
 ## ✨ 저의 깃허브는요
 
