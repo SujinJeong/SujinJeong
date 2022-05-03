@@ -14,9 +14,9 @@
 |호주 Swinburne Univ. Bachelor of Computer Science 교환학생|2019.02~2019.11|멜버른 스윈번 공과대학에서 전문과정 학습|
 |미림정보마이스터고등학교 교생|2020.05|뉴미디어디자인반 담당, 2학년 Python반 교육|
 |삼성SW청년아카데미 SSAFY 5기|2021.01~2021.07|SSAFY 5기 Java반, SSAFY 5기 자치회|
-|현대오토에버 디지털채널서비스팀|2021.07~2021.12|대고객채널시스템 KIA VIK 백엔드 개발자|
+|현대오토에버 디지털채널서비스팀|2021.07~2021.12|대고객채널시스템 KIA VIK 백엔드 개발자, Spring 기반 MSA 사내 Cop 팀원|
 |우리에프아이에스 디지털개발본부 디지털플랫폼부|2021.12~|우리은행 인터넷뱅킹 및 WON뱅킹 개발 및 운영|
-|우리에프아이에스X패스트캠퍼스 디지털 프론티어 3기 BigData 과정|2022.04~2022.08|Hadoop, Spark, Kafka, AWS|
+|우리FISX패스트캠퍼스 디지털 프론티어 3기 BigData 과정|2022.04~2022.08|Hadoop, Spark, Kafka, AWS|
 
 ## :fries: 알고리즘 기본 코드 정리 Notion
 https://www.notion.so/77a77b63b78748559ea6b6dbd4adb163?v=1597c5c31efd4ba5bb10271725a0b2f7
