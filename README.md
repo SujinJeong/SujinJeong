@@ -23,20 +23,7 @@ https://www.notion.so/77a77b63b78748559ea6b6dbd4adb163?v=1597c5c31efd4ba5bb10271
 
 ## 👯 기술스택
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/SujinJeong"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/SujinJeong"> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&link=https://github.com/SujinJeong"> 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=Spring Security&logoColor=white&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white&link=https://github.com/SujinJeong"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/SujinJeong"> 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white&link=https://github.com/SujinJeong"> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white&link=https://github.com/SujinJeong"> 
-<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white&link=https://github.com/SujinJeong"> 
-<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white&link=https://github.com/SujinJeong">
-<img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white&link=https://github.com/SujinJeong">
-#
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=Spring Security&logoColor=white&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white&link=https://github.com/SujinJeong"> <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white&link=https://github.com/SujinJeong"><img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white&link=https://github.com/SujinJeong">
 
 ## ⚡ 자격증
 
