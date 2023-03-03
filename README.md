@@ -27,9 +27,8 @@ https://www.notion.so/77a77b63b78748559ea6b6dbd4adb163?v=1597c5c31efd4ba5bb10271
 
 ## ⚡ 자격증
 
-+ DASP
++ DASP / SQLD / ADSP
 + 정보처리기사
-+ SQLD
 + 중등정교사자격증 2급 정보컴퓨터
 + 워드프로세서 1급
 + 한국사능력검정시험 3급
